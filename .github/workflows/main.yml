@@ -12,7 +12,7 @@ jobs:
     steps:
       # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
       # Do not change the line below except the word master with tag number maybe
-      - uses: Root-kjh/Profile-Readme-WakaTime@master
+      - uses: avinal/Profile-Readme-WakaTime@master
         with:
-          WAKATIME_API_KEY: 27cec426-e3da-4d74-95b0-30e2251b022d
-          GITHUB_TOKEN: 364b0e47fa25cb37fa7074b8dd9a517ace1ef43e
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
