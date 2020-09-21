@@ -1,0 +1,18 @@
+name: WakaTime stat update in README.md
+
+on:
+  schedule:
+    # Runs at 12 am  '0 0 * * *'  UTC
+    - cron: '1 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update the WakaTime Stat
+    runs-on: ubuntu-latest
+    steps:
+      # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
+      # Do not change the line below except the word master with tag number maybe
+      - uses: Root-kjh/Profile-Readme-WakaTime@master
+        with:
+          WAKATIME_API_KEY: 27cec426-e3da-4d74-95b0-30e2251b022d
+          GITHUB_TOKEN: 364b0e47fa25cb37fa7074b8dd9a517ace1ef43e
