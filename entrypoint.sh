@@ -44,7 +44,7 @@ git remote -v
 git checkout master
 
 git add .
-git commit -m "Automated Coding Activity Update :alien:"
+git commit -m "Coding Activity Time Update"
 git pull
 git push publisher master
 echo "image update successfull"
