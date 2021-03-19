@@ -2,3 +2,5 @@
 
 ## My Coding Activity Time
 <img src="https://github.com/Root-kjh/Root-kjh/blob/master/images/stat.svg" alt="Root-kjh Coding Activity"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-kjh)](https://github.com/anuraghazra/github-readme-stats)
