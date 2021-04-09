@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&amp;logo=Elasticsearch&amp;logoColor=white" alt="elasticsearch">&nbsp
 <br>
 <img src="https://img.shields.io/badge/Ruby-810000?style=flat-square&logo=Ruby&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
@@ -22,7 +23,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/TypeScript-0076C6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&amp;logo=Elasticsearch&amp;logoColor=white" alt="elasticsearch">&nbsp
 </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoot-kjh)](https://hits.seeyoufarm.com)
