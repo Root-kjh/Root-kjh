@@ -12,10 +12,8 @@ Users can manually input data such as weight and body fat percentage.
 
 2. Data Usage
 
-The collected data is used to provide personalized recommendations for exercise and to calculate an overall health score and detailed indices (stress management, energy levels, 
+The collected data is used to provide calculate an overall health score and detailed indices (stress management, energy levels, 
 lifestyle balance, etc.).
-
-The data is also used to compare the user's current exercise levels with recommended levels.
 
 3. Data Sharing and Disclosure
 
